@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.mopubsdklibrary;
 
 import android.app.Activity;
 import android.content.Context;

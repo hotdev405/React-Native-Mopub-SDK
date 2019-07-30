@@ -3,7 +3,7 @@ package com.example;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.reactlibrary.RNMopubSdkPackage;
+import com.mopubsdklibrary.RNMopubSdkPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;

@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.mopubsdklibrary;
 
 import android.graphics.Color;
 import android.util.Log;

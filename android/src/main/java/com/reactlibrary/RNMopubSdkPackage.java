@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.mopubsdklibrary;
 
 import java.util.ArrayList;
 import java.util.Arrays;
